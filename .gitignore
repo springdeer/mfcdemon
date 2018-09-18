@@ -1,0 +1,13 @@
+*.pdb
+*.pch
+*.bak
+*.sbr
+*.obj
+*.aps
+*.ncb
+*.ilk
+*.log
+*.sbr
+*.sdf
+[Dd]ebug*/
+obj/
